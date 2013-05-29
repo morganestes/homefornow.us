@@ -1,0 +1,67 @@
+<item>
+	<title>Nursing + Netflix = warning from AT&amp;T</title>
+	<link>http://homefornow.us/breastfeeding-netflix-warning-from-att</link>
+	<pubDate>Fri Dec 30 19:56:01 -0800 2011</pubDate>
+	
+	<dc:creator><![CDATA[Morgan Estes]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="AT%26amp%3BT"><![CDATA[AT&amp;T]]></category>
+	
+		<category domain="tag" nicename="data"><![CDATA[data]]></category>
+	
+		<category domain="tag" nicename="geek"><![CDATA[geek]]></category>
+	
+		<category domain="tag" nicename="iPhone"><![CDATA[iPhone]]></category>
+	
+		<category domain="tag" nicename="Jessica"><![CDATA[Jessica]]></category>
+	
+		<category domain="tag" nicename="Netflix"><![CDATA[Netflix]]></category>
+	
+		<category domain="tag" nicename="phone"><![CDATA[phone]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://homefornow.us/breastfeeding-netflix-warning-from-att</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Jessica got a nicely-worded text and email from AT&amp;T this afternoon. It turns out that the woman who didn't want a smart phone is now in the top 5% of all subscribers for data usage. Woohoo!</p>
+<p>According to the email, AT&amp;T considers "extraordinarily large amounts of data" to be about 12x the amount that the average smartphone user would use. We're 16 days into the billing cycle and Jessica has already used over 2GB worth of data.&nbsp;In comparison, I have used a whopping 768MB in that same time, and I'm what could be considered a "power user."</p>
+<p>So how did this happen? For starters, Jessica doesn't use WiFi on her phone. She turned it on once before but it kept prompting her to connect to all the networks throughout the neighborhood every time she drove through. Her solution: since we pay for unlimited data, just use the 3G connection.</p>
+<p>And that worked, until now <span style="font-size: x-small;">(warning: technical rant follows...</span>)</p>
+<p>AT&amp;T has decided to start throttling connections to devices that are high users of data. Their solution is technically okay (they do it by month, then give you full speed at the start of the next month), but they don't really define to what speed they limit the connection, nor at what threshold of data usage that kicks in. They are quick to point out that we still have unlimited data, just that it'll be slower than it is now (which isn't really blazing, to be honest.)</p>
+<p><span style="font-size: x-small;">/end rant</span></p>
+<p>And how was she able to rack up so much data? Here's the rundown:</p>
+<ul>
+<li>Joanna eats about 8 times a day for 30-45 minutes each time.</li>
+<li>Netflix streams TV shows to the iPhone.</li>
+<li><a href="http://www.imdb.com/title/tt0292414/" target="_blank">McCleod's Daughters</a> is a fun show.</li>
+<li>Episodes are about 43 minutes long.</li>
+<li>It takes about 0.215GB per episode to stream (<a href="http://blog.netflix.com/2011/03/netflix-lowers-data-usage-by-23-for.html" target="_blank">0.3GB/hr</a>).</li>
+</ul>
+<p>Conservatively, we'll say she gets to watch 2 episodes a day while breastfeeding.</p>
+<div class="CodeRay">
+  <div class="code"><pre>2 episodes × 0.215GB = 0.43GB/day</pre></div>
+</div>
+
+<p>That's about 4.5 days of feeding and watching (plus email, Facebook, Words With Friends, etc.) to be in the 5%. At that rate, I can guesstimate (and so can AT&amp;T) that Jessica&nbsp;would use close to <strong>13GB of data in a month</strong> (feel free to check my math) at full speed. Woohoo again!</p>
+<p>Oh yeah, we've set up the phone for WiFi again, but not to prompt to connect to available networks. She'll still chew up the Interwebs, but it'll be partly on Cox's network now.</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Jessica got a nicely-worded text and email from AT&T this afternoon. It turns out that the woman who didn't want a smart phone is now in the top 5% of all subscribers for data usage. Woohoo! According to the email, AT&T considers "extraordinarily ...]]></excerpt:encoded>	
+
+	<wp:post_date>Fri Dec 30 19:56:01 -0800 2011</wp:post_date>
+	<wp:post_date_gmt>Fri Dec 30 19:56:01 -0800 2011</wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>91333574</wp:post_id>
+	<wp:post_name>breastfeeding-netflix-warning-from-att</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>
